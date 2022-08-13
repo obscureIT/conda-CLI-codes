@@ -3,14 +3,18 @@
 ### 1 (base) ---> conda update conda 
 #### to update the central environment which is called "conda"
 
+
 ### 2 (base) ---> conda info --envs
 #### gives information about all the available environments currently installed
+
 
 ### 3 conda create --name insert_environment_name
 #### creates a new virtual python environment with the name inseet_environment_name(replace with the name you are looking for)
 
+
 ### 4 conda activate insert_environment_name (That you want to activate)
 #### activates the virtual environment
+
 
 ### 5 conda install pandas jupyter matplotlib seaborn bottleneck numexpr
 #### these are the packages/Libraries that we would want to install
