@@ -1,18 +1,18 @@
 # conda-CLI-codes
 
-### (base) ---> conda update conda 
+### 1 (base) ---> conda update conda 
 #### to update the central environment which is called "conda"
 
-### (base) ---> conda info --envs
+### 2 (base) ---> conda info --envs
 #### gives information about all the available environments currently installed
 
-### conda create --name insert_environment_name
+### 3 conda create --name insert_environment_name
 #### creates a new virtual python environment with the name inseet_environment_name(replace with the name you are looking for)
 
-### conda activate insert_environment_name (That you want to activate)
+### 4 conda activate insert_environment_name (That you want to activate)
 #### activates the virtual environment
 
-### conda install pandas jupyter matplotlib seaborn bottleneck numexpr
+### 5 conda install pandas jupyter matplotlib seaborn bottleneck numexpr
 #### these are the packages/Libraries that we would want to install
 ###### jupyter - Jupyter Notebook
 ###### pandas - python data analysis library
