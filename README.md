@@ -24,3 +24,4 @@
 ###### matplotlib - for data visualization
 ###### seaborn - for data visualization
 ###### bottleneck and numexpr - pandas and numpy uses these two libraries for speed and acceleration. 
+###### scikit-learn and scikit-learn-intelex - for machine learning and for speeding up the whole process
